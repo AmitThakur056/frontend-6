@@ -9,6 +9,10 @@
    *
    * var app = express();
    * app.use(helpers.errorHandler);
+   xhshs
+   shshs
+   shshs
+   
    * */
 
   helpers.errorHandler = function(err, req, res, next) {
